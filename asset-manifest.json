@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ravi-resorts/static/css/main.adc1dc63.css",
+    "main.js": "/ravi-resorts/static/js/main.492d401f.js",
+    "static/js/488.0f3a4320.chunk.js": "/ravi-resorts/static/js/488.0f3a4320.chunk.js",
+    "index.html": "/ravi-resorts/index.html",
+    "main.adc1dc63.css.map": "/ravi-resorts/static/css/main.adc1dc63.css.map",
+    "main.492d401f.js.map": "/ravi-resorts/static/js/main.492d401f.js.map",
+    "488.0f3a4320.chunk.js.map": "/ravi-resorts/static/js/488.0f3a4320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc1dc63.css",
+    "static/js/main.492d401f.js"
+  ]
+}
