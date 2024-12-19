@@ -1,0 +1,51 @@
+.ul-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    
+}
+.nav-link {
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    color: rgba(240, 245, 236, 0.836);
+
+}
+
+.resort-name {
+    font-size: 25px;
+    margin-right: auto;
+    color: white;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+@media screen and (max-width: 767px){
+    .nav-link{
+        font-size: 12px;
+    }
+    .resort-name{
+        font-size: 15px;
+    }
+}
+
+.nav-link:hover {
+    color: rgb(26, 24, 24);
+    
+    text-decoration: underline;
+}
+.nav-menu {
+    border: 1px solid rgb(7, 95, 228);
+    background-color: rgb(9, 91, 184);
+    margin: 5px;
+    
+}
+
+.img-con {
+    width: 75px;
+    height: 75px;
+    
+    
+}
